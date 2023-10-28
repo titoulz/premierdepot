@@ -1,3 +1,3 @@
 <?php
-echo"bonsoir"
-echo"slm"
+echo"bonsoir";
+echo"";
